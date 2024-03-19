@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 --><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/WEB-000000?style=plastic&logo=webex&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Java-000000?style=plastic&logo=webex&logoColor=000000"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolgu96&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=kolgu96@naver.com&show_icons=true&theme=radical)
