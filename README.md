@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/WEB-000000?style=plastic&logo=webex&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Java-000000?style=plastic&logo=webex&logoColor=000000"/>
