@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1dfd780-aa19-451a-98c1-94afcc52a4a3" name="Changes" comment="" />
+    <list default="true" id="45248bb9-4630-4d9e-8352-1eb812e36a44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,26 +22,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2dtThjR2Eolzu1uRi7umPGPSKCq" />
+  <component name="ProjectId" id="2dvsMlkVUJTXBmfyJk6dJxczGRi" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Application1.executor": "Run",
+    "Application.Application3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA/01-lecture-source",
+    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA/01-lecture-source/chap01-literal-and-variable-lecture-source",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,15 +61,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f1dfd780-aa19-451a-98c1-94afcc52a4a3" name="Changes" comment="" />
-      <created>1710826497125</created>
+      <changelist id="45248bb9-4630-4d9e-8352-1eb812e36a44" name="Changes" comment="" />
+      <created>1710899840885</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710826497125</updated>
-      <workItem from="1710826498164" duration="1404000" />
-      <workItem from="1710896159112" duration="43000" />
-      <workItem from="1710896208670" duration="635000" />
-      <workItem from="1710899868583" duration="40000" />
+      <updated>1710899840885</updated>
+      <workItem from="1710899841959" duration="26000" />
+      <workItem from="1710899918407" duration="7047000" />
+      <workItem from="1710915199264" duration="62000" />
+      <workItem from="1710915443392" duration="150000" />
+      <workItem from="1710915602257" duration="3598000" />
     </task>
     <servers />
   </component>
