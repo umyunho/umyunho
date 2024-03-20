@@ -12,7 +12,7 @@ public class Application1 {
         /* 1-2. 실수 형태의 값 */
         System.out.println(1.123); //1.23 실수
 
-        /* 2. 문자 형태의 값 출력 */
+        /* 2. 문자 형태의 값 출력 */  //char
         System.out.println('a'); // 문자 형태의 값은 홀따움표(single-quotation)으로 감싸주어야 한다
         //System.out.println('ab'); // 두 개 이상은 문자로 취급하지 않기 때문에 에러가 발생한다
         //System.out.println(''); // 아무 문자도 기록되지 않는 경우 에러가 발생한다.
