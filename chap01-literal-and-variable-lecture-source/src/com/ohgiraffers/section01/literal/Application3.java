@@ -3,6 +3,8 @@ package com.ohgiraffers.section01.literal;
 public class Application3 {
     public static void main(String[] args) {
 
+
+
         /*수업 목표 문자열 합치기 결과를 예측하고 사용할 수 있다.*/
         /*목차1. 두 개의 문자열 합치기*/
 
@@ -36,7 +38,6 @@ public class Application3 {
         System.out.println("10과 20의 곱" + (10 * 20) );
         System.out.println("10과 20의 나누기" + (10 / 20) );
         System.out.println("10과 20의 몫" + (10 % 20) );
-
 
         System.out.println("기차"); //기차
         System.out.println("기차" + "칙칙폭폭"); //기차칙칙폭폭
