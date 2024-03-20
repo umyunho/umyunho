@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45248bb9-4630-4d9e-8352-1eb812e36a44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../01-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section02/variable/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-lecture-source/.idea/01-lecture-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-lecture-source/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-lecture-source/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-lecture-source/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-lecture-source/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-lecture-source/chap01-literal-and-variable-lecture-source/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lecture-source/chap01-literal-and-variable-lecture-source/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-lecture-source/chap01-literal-and-variable-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lecture-source/chap01-literal-and-variable-lecture-source/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lecture-source/chap01-literal-and-variable-lecture-source/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lecture-source/chap01-literal-and-variable-lecture-source/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section01/literal/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section01/literal/Application1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section01/literal/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section01/literal/Application2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section01/literal/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section01/literal/Application3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/variable/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section02/variable/Application1.java" afterDir="false" />
-    </list>
+    <list default="true" id="45248bb9-4630-4d9e-8352-1eb812e36a44" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
