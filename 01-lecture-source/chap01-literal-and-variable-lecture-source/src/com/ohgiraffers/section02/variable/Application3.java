@@ -31,7 +31,7 @@ public class Application3 {
 
         /* 목차1. 컴파일 에러를 발생시키는 규칙.*/
         /*  목차1-1. 동일한 범위 내에서 동일한 변수를 가질 수 없다.*/
-        INT age = 20;
+        int age = 20;
         //String age = "";
         //int age = 30; //동일한 변수명을 가지므로 에러 발생
 
