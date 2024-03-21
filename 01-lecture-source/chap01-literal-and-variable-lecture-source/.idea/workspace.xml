@@ -35,18 +35,19 @@
     "Application.Application1.executor": "Run",
     "Application.Application2.executor": "Run",
     "Application.Application3.executor": "Run",
+    "Application.Application4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA/01-lecture-source/chap01-literal-and-variable-lecture-source",
+    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA/01-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section5/typecasting",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,10 +71,20 @@
       <workItem from="1710915199264" duration="62000" />
       <workItem from="1710915443392" duration="150000" />
       <workItem from="1710915602257" duration="9931000" />
+      <workItem from="1710980857569" duration="102000" />
+      <workItem from="1710980967232" duration="1560000" />
+      <workItem from="1710982539389" duration="7019000" />
+      <workItem from="1710989688578" duration="268000" />
+      <workItem from="1710989965218" duration="2222000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chap01_literal_and_variable_lecture_source$Application1.ic" NAME="Application1 Coverage Results" MODIFIED="1710990056708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ohgiraffers.section5.typecasting.*</FILTER>
+    </SUITE>
   </component>
 </project>
