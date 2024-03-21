@@ -49,31 +49,6 @@ public class Application1 {
         System.out.println("a가 b보다 크거나 c가 d보다 작은지 확인 : " + (a > b && c < d));
         System.out.println("a가 b보다 크거나 c가 d보다 큰지 확인 : " + (a > b && c > d));
 
-        /*2. 영어가 대문자인지 확인*/
-        /*영어 대문자냐?--> 문자변수 >= 'A' && answkqustn<='Z' >=*/
-        char ch = 'G';
-
-        System.out.println("===================================================");
-        System.out.println("영어가 대문자인지 확인 : " + (ch >= 'A' && ch  <= 'Z'));
-
-        char ch1 = 'g';
-        System.out.println("===================================================");
-        System.out.println("영어가 대문자인지 확인 : " + (ch1 >= 'A' && ch1  <= 'Z'));
-
-        /* 3. 대소문자와 상관없이 영문자 y인지 확인 */
-        /* 문자변수 == 'y' || 문자변수 =='Y'*/
-        char ch2 = 'y';
-        System.out.println("영문자 y인지 확인 : " + (ch2 == 'y' || ch2 == 'Y'));
-
-        char ch3 = 'Y';
-        System.out.println("영문자 y인지 확인 : " + (ch3 == 'y' || ch3 == 'Y'));
-
-        /*4.영문자인지 확인*/
-        /*  A = 65, Z = 90, Z = 122 (중간의 91~96까지는 영문자가 아님 */
-
-        char ch5 = 'f';
-        System.out.println("영문자인지 확인 : " + ((ch5>='A' && ch5 <= 'z') || (ch5>= 'a' && ch5<='z')));
-        System.out.println("영문자인지 확인 : " + ((ch5>=65 && ch5 <= 90) || (ch5>= 97 && ch5<= 122)));
 
     }
 }
