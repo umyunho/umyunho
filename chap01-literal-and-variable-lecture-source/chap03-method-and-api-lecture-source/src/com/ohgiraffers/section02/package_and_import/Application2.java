@@ -4,6 +4,7 @@ import com.ohgiraffers.section01.method.Calculator;
 
 import static com.ohgiraffers.section01.method.Calculator.maxNumberOf;
 
+
 public class Application2 {
     public static void main(String[] args) {
         /*수업 목표. 임포트에 대해 이해할 수 있다.*/
@@ -33,4 +34,4 @@ public class Application2 {
         System.out.println("100과 200중에 더 큰 값은? " + max2);
 
     }
-}2
+}

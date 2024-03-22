@@ -13,7 +13,7 @@ public class Application1 {
         * */
 
         /*1.non-static 메소드의 경우*/
-        com.ohgiraffers.section01.method cal = new com.ohgiraffers.section01.method;
+        com.ohgiraffers.section01.method.Calculator cal = new com.ohgiraffers.section01.method.Calculator();
 
         int min = cal.minNumberOf(30,20);
         System.out.println("30과 20중에 더 작은 값은? " + min);
