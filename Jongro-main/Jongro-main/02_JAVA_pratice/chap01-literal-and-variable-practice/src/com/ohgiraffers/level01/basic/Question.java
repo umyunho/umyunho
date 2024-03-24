@@ -15,6 +15,13 @@ public class Question {
          * 나누기한 몫 : 0
          * 나누기한 나머지 : 20
          * */
+        int a = 20;
+        int b = 30;
+        System.out.println("a + b의 결과는 : " + ( a + b ));
+        System.out.println("a - b의 결과는 : " + ( a - b ));
+        System.out.println("a * b의 결과는 : " + ( a * b ));
+        System.out.println("a / b의 결과는 : " + ( a / b ));
+        System.out.println("a % b의 결과는 : " + ( a % b ));
 
         /* Application02
          * 사각형의 넓이와 둘레를 구하는 문제이다.
@@ -25,6 +32,13 @@ public class Question {
          * 면적 : 455.0
          * 둘레 : 97.8
          *  */
+        double c = 12.5;
+        double d = 36.4;
+
+        System.out.println("사각형의 면적은 : " + ( c * d ));
+        System.out.println("a + b의 결과는 : " + ( c * 4 ));
+
+
 
     }
 

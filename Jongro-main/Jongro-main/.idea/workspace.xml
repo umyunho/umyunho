@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c83a5087-8bc5-4f09-b7ac-39f67a7ecf9c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/01_JAVA/chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JAVA/chap02-operator-lecture-source/chap02-operator-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JAVA/chap03-method-and-api-lecture-source/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JAVA/chap03-method-and-api-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JAVA/chap03-method-and-api-lecture-source/chap03-method-and-api-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JAVA_pratice/chap01-literal-and-variable-practice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02_JAVA_pratice/chap01-literal-and-variable-practice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JAVA_pratice/chap01-literal-and-variable-practice/chap01-literal-and-variable-practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JAVA_pratice/chap01-literal-and-variable-practice/src/com/ohgiraffers/level01/basic/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_JAVA_pratice/chap01-literal-and-variable-practice/src/com/ohgiraffers/level01/basic/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JAVA_pratice/chap02-operator-practice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02_JAVA_pratice/chap02-operator-practice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JAVA_pratice/chap02-operator-practice/chap02-operator-practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JAVA_pratice/chap02-operator-practice/src/com/ohgiraffers/level01/basic/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/02_JAVA_pratice/chap02-operator-practice/src/com/ohgiraffers/level01/basic/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JAVA_pratice/chap03-method-and-api-practice/chap03-method-and-api-practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section01/literal/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section01/literal/Application2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section01/literal/Application3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section02/variable/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section02/variable/Application2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section02/variable/Application3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section04/overflow/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section3/constant/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section3/constant/Application2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section5/typecasting/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section5/typecasting/Application2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section5/typecasting/Application3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source/src/com/ohgiraffers/section5/typecasting/Application4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/chap02-operater-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/src/com/ohgiraffers/section01/arithmetic/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/src/com/ohgiraffers/section02/assignment/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/src/com/ohgiraffers/section03/increment/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/src/com/ohgiraffers/section04/comparison/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/src/com/ohgiraffers/section05/logical/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/src/com/ohgiraffers/section05/logical/Application2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/src/com/ohgiraffers/section05/logical/Application3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap02-operater-lecture-source/src/com/ohgiraffers/section6/ternary/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/chap03-method-and-api-lecture-source.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Application9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section01/method/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section02/package_and_import/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section02/package_and_import/Application2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section03/math/Application1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section03/math/Application2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap01-literal-and-variable-lecture-source/chap03-method-and-api-lecture-source/src/com/ohgiraffers/section03/math/Application3.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2e8cXWnbQI6oKjU4QaJLNPUWiT7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/프로그래밍 작업파일/학원수업/내 작업물/main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c83a5087-8bc5-4f09-b7ac-39f67a7ecf9c" name="Changes" comment="" />
+      <created>1711289685493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711289685493</updated>
+      <workItem from="1711289686541" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
