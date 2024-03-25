@@ -1,9 +1,8 @@
-package com.ohgiraffers.section04;
+package com.ohgiraffers.section04.scanner;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class scanner {
+public class Application1 {
 
     public static void main(String[] args) {
 
@@ -53,6 +52,13 @@ public class scanner {
         System.out.print("참과 거짓 중 한가지를 true or false로 입력해주세요.");
         boolean isTrue = sc.nextBoolean();
         System.out.println("입력하신 논리값은 : " + isTrue + "입니다.");
+
+        /*2-5. 문자형 값 입력하기*/
+        /* charAt(int index)를 사용한다.*/
+        sc.nextLine();
+        System.out.print("아무 문자나 입력해주세요 : " );
+        char ch = sc.nextLine().charAt(0);
+        System.out.println("입력하신 문자는" + ch + "입니다.");
 
 
 
