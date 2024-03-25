@@ -16,14 +16,18 @@ public class Application1 {
         //b.testsimpleIfElse();
 
         /*중첩 if-else문 흐름 확인용 메소드 호출*/
-        B_ifElse b = new B_ifElse();
-        b.testNeatedIfElseStatment();
+        //B_ifElse b = new B_ifElse();
+        //b.testNeatedIfElseStatment();
 
         //C_ifElseif c = new C_ifElseif();
         //c.testSimpleIfElseIfStatement();
 
         //C_ifElseif c_ifElseif = new C_ifElseif();
-        //c.tesstNestedIfElseIfStatment();
+        //c_ifElseif.tesstNestedIfElseIfStatment();
+
+        D_switch d = new D_switch();
+        //d.testSimpleSwitchStatement();
+        d.testSwtchVendingMachine();
 
 
     }

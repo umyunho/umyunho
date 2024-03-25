@@ -63,32 +63,35 @@ public class C_ifElseif {
             String grade = "";
 
             if(point >= 95){
-                System.out.println("A+");
+                System.out.println(grade = "A+");
             }else if(point >= 90){
 
-                System.out.println("A");
+                System.out.println(grade = "A");
             }else if(point >= 85){
 
-                System.out.println("B+");
+                System.out.println(grade = "B+");
             }else if(point >= 80){
 
-                System.out.println("B");
+                System.out.println(grade = "B");
             }else if(point >= 75){
 
-                System.out.println("C+");
+                System.out.println(grade = "C+");
             }else if(point >= 70){
 
-                System.out.println("C");
+                System.out.println(grade = "C");
             }else if(point >= 65){
 
-                System.out.println("D+");
+                System.out.println(grade = "D+");
             }else if(point >= 60){
 
-                System.out.println("D");
+                System.out.println(grade = "D");
             }else{
 
-                System.out.println("F");
+                System.out.println(grade = "F");
             }
+
+            System.out.println(name + " 학생의 점수는 " + point + " 등급은 " + grade + "입니다");
+            System.out.println("프로그램을 종료합니다");
 
 
 
