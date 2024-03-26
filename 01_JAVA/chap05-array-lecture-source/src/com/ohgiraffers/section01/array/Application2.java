@@ -55,32 +55,29 @@ public class Application2 {
         System.out.println("arr2 = " + arr2.hashCode());
         System.out.println("carr2.hashCode() = " + carr2.hashCode());
 
-        System.out.println("arr2의 길이 : " + arr2.length);
+        System.out.println("arr2의 길이 :" + arr2.length);
         System.out.println("carr의 길이 : " + carr2.length);
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("새로 할당할 배열의 길이를 입력하세요 : ");
-
+        System.out.print("새로 할당할 배열의 길이를 입력하세요 : ");
         int size = sc.nextInt();
-
 
         double[] darr = new double[size];
 
-        System.out.println("darr의 hashcode : " +darr.hashCode());
+        System.out.println("darr의 hashcode : " +darr.hashCode()); //51228289
         System.out.println("darr의 길이 : " + darr.length);
 
         darr = new double[30];
 
-        System.out.println("darr의 hashcode : " + darr.hashCode());
-        System.out.println("darr의 길이 : " + darr.length);
-
+        System.out.println("변경 후 darr의 hashcode : " +darr.hashCode()); //455896770
+        System.out.println("변경 후 darr의 길이 : " + darr.length);
+        
         darr = null;
 
         System.out.println("darr.length = " + darr.length);
 
-
-
+        
 
 
 
