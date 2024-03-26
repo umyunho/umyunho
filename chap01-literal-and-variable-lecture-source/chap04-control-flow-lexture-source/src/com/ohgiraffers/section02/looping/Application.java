@@ -16,10 +16,11 @@ public class Application {
         //an.printTriangleStars();
 
         B_while b = new B_while();
+        //b.testWhileExample();
+        //b.testWhileExample2();
 
-
-        C_dowhile c = new C_dowhile();
-        //c.testSimpleDoWhileStatment();
-        c.TwstDoWhileExample();
+        C_doWhile c = new C_doWhile();
+       //c.testSimpleDoWhileStatment();
+        c.testDoWhileExample();
     }
 }
