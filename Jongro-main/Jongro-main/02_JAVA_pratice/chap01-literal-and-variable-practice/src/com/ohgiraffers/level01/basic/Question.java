@@ -36,7 +36,7 @@ public class Question {
         double d = 36.4;
 
         System.out.println("사각형의 면적은 : " + ( c * d ));
-        System.out.println("a + b의 결과는 : " + ( c * 4 ));
+        System.out.println("a + b의 결과는 : " + ( c + d ) * 2);
 
 
 
