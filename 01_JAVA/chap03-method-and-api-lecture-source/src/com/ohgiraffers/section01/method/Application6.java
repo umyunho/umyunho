@@ -26,15 +26,26 @@ public class Application6 {
         System.out.println(returnText);  //hello world 출력됨
         System.out.println(app6.testMethod());
 
+        /*개인 복습 - */
 
         System.out.println("main 메소드 종료함");
     }
 
     public String testMethod(){
 
+        System.out.println("new");
 
         return"hello world";
 
     }
 
 }
+/*자체 해석
+* 21번째줄 main메소드 시작함을 출력한다
+* 22번째 줄 Application6이라는 클래스에 app6이라는 변수를 선언하고 app6이라는 변수는 Application의 인스턴스를 포함한다
+* */ //인스턴스란 해당 클래스 자체를 의미
+/*23번째줄 app6의 testMethod란 메소드를 실행한다. 따라서 출력시 new가 한번 출력된다.
+* 25번째 줄 returnNext라는 String형(문자열)형식의 변수를 선언하고 그 returnNext라는 변수는 app6의 testMethod라는 메소드를 포함한다.
+* 26번째 returnNext 변수 값을 출력한다. 이때 위에서 이미 23번째 줄에서 returnNext 변수에 포함된 app6의 testMethod 메소드를 실행하였기 때문에 app6의 testMethod라는 메소드는 리턴값 hello world만 남아있다
+* 따라서 26번째줄 출력문에는 new가 출력된 후 hello world 가 출력된다.
+* 변수값에는 hello world값만 남아있지만 app6의 testMethod는 아직 리턴을 받은 상태가 아니므로 new가 출력된 후 hello world가 출력된다.*/

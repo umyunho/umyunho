@@ -33,6 +33,12 @@ public class A_if {
 
     }
 
+    /*자체 이해도
+    * Scanner는 라이브러리에 저장된 클래스이다.
+    * 25번째 줄을 해석하면 Scanner이라는 클래스를 sc라는 변수로 선언하고 sc변수는 Scanner의 인스턴스를 포함한다.
+    * (System.in)을 해석하면 Scanner 인스턴스 안에 System이라는 다른 클래스를 포함시키고 System 클래스 안의 in이라는 메소드를 호출한다.
+    * 27번째 num이라는 정수형 변수는 위에 25번재에 선언한 sc변수 안에 포함된 Scanner클래스에 있는 nextInt 메소드를 가진다.*/
+
     public void testNestedIfStatment(){
 
         /*수업목표. 중첩된 if문의 흐름을 이해하고 적용할 수 있다*/
