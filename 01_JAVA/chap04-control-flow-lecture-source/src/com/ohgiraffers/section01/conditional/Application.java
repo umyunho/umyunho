@@ -5,7 +5,7 @@ public class Application {
 
         A_if a = new A_if();
         /* 단독 if 문 흐름 확인용 메소드 출력 */
-        //a.testSimpleIfStatement();
+        a.testSimpleIfStatement();
 
         /* 중첩 if문 흐름 확인용 메소드 출력*/
         //a.testNestedIfStatment();
@@ -24,7 +24,7 @@ public class Application {
 
         D_switch d = new D_switch();
         //d.testSimpleSwitchStatement();
-        d.testSwitchVendingMachine();
+        //d.testSwitchVendingMachine();
 
 
     }
