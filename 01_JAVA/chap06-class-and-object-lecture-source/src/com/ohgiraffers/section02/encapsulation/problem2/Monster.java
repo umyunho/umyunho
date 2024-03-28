@@ -5,8 +5,8 @@ public class Monster {
     //String name;
     //int hp;
     /*
-    * name필드의 이름을 kinds로 변경한다.
-    * */
+     * name필드의 이름을 kinds로 변경한다.
+     * */
     String kinds;
     int hp;
 }

@@ -4,24 +4,24 @@ public class Application1 {
     public static void main(String[] args) {
         /*수업 목표. 필드에 직접 접근하는 경우 발생할 수 있는 문제점을 이해할 수 있다.(1)*/
         /*필드에 옳바르지 않은 값이 들어가도 통제가 불가능하다.*/
-        
+
         Monster monster1 = new Monster();
-        
+
         monster1.name = "피카츄";
         monster1.hp = 200;
 
         System.out.println("monster1.name = " + monster1.name);
         System.out.println("monster1.hp = " + monster1.hp);
-        
+
         Monster monster2 = new Monster();
-        
+
         monster2.name = "파이리";
         monster2.hp = - 200;
 
         System.out.println("monster2 = " + monster2.name);
         System.out.println("monster2.hp = " + monster2.hp);
         //검증되지 않은 값을 넣으면 문제가 생김
-        
+
         Monster monster3 = new Monster();
         monster3.name = "이상해씨";
         monster3.setHp(200);
@@ -35,6 +35,6 @@ public class Application1 {
 
         System.out.println("monster4.name = " + monster4.name);
         System.out.println("monster4.hp = " + monster4.hp);
-        
+
     }
 }

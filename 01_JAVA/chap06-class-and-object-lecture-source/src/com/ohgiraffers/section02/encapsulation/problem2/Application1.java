@@ -1,7 +1,5 @@
 package com.ohgiraffers.section02.encapsulation.problem2;
 
-import com.ohgiraffers.section02.encapsulation.problem2.Monster;
-
 public class Application1 {
     public static void main(String[] args) {
         /*필드에 직접 접근하는 경우 발생할 수 있는 문제점을 이해할 수 있다.*/
