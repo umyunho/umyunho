@@ -39,9 +39,8 @@ public class Application1 {
     *   객체를 생성하게 되면 클래스에 정의한 필드와 메소드대로 객체가 생성된다.
     아이디, 비밀번호, 이름 ,나이, 성별, 취미를 연산된 메모리 주소에 사용하도록 heap에 공간을 만들었다.
     * */
-
         Member member = new Member(); //객체 생성 (사용자 정의 변수명)
-
+     //클래스명 변수명    새로운 인스턴스
         /*2-2 생성된 인스턴스의 초기값 확인하기.*/
         /*
          * 필드에 접근을 하기 위해서는 레퍼런스 변수명, 필드명
@@ -54,7 +53,7 @@ public class Application1 {
         System.out.println("member.name = " + member.name );
         System.out.println("member.age = " + member.age );
         System.out.println("member.gender = " + member.gender );
-        System.out.println("member.hobbyr = " + member.hobby );
+        System.out.println("member.hobby = " + member.hobby );
 
         member.id = "user02";
         member.pwd = "pass02";
@@ -68,7 +67,7 @@ public class Application1 {
         System.out.println("변경 후 member.name = " + member.name );
         System.out.println("변경 후 member.age = " + member.age );
         System.out.println("변경 후 member.gender = " + member.gender );
-        System.out.print("변경 후 member.hobbyr = " );
+        System.out.print("변경 후 member.hobby = " );
         for(int i = 0; i< member.hobby.length; i++){
             System.out.print(member.hobby[i] + " ");
         }
