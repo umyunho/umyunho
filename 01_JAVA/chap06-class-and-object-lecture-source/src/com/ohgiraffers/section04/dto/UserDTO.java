@@ -17,21 +17,24 @@ public class UserDTO {
      *  4. 모든 멤버변수에 접근 가능한 설정자(setter)와 접근자(getter)가 public으로 작성되어 있어야 함.
      *  5. 직렬화(Serializable 구현)가 되어야 한다. (선택사항)
      * */
-    /*멤버 변수의 접근제어자는 private로 선언해야함*/
-    private  String id;
+
+    /*멤버변수의 접근제어자는 private로 선언해야 함.*/
+    private String id;
     private String pwd;
     private String name;
 
-    /*기본 생성자가 명시적으로 존재하지 않는다.*/
+    /*기본생성자가 명시적으로 존재해야 한다.*/
     public UserDTO(){}
+
+
 
     public UserDTO(String id, String pwd, String name) {
         this.id = id;
         this.pwd = pwd;
         this.name = name;
     }
-    /*설정자(setter)*/
 
+    /*설정자(setter)*/
     public void setId(String id) {
         this.id = id;
     }
@@ -56,5 +59,14 @@ public class UserDTO {
 
     public String getName() {
         return name;
+    }
+
+    @Override
+    public String toString() {
+        return "UserDTO{" +
+                "id='" + id + '\'' +
+                ", pwd='" + pwd + '\'' +
+                ", name='" + name + '\'' +
+                '}';
     }
 }

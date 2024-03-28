@@ -2,7 +2,6 @@ package com.ohgiraffers.section03.abstraction;
 
 public class CarRacer {
 
-
     private Car car = new Car();
 
     public void startUp(){car.startUp();}

@@ -60,4 +60,3 @@ public class Car {
 
 
 }
-//bolean타입의 변수에는 is를 붙여주는게 일반적인 관례
