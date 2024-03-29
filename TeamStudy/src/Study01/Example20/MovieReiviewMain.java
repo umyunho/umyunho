@@ -1,4 +1,4 @@
-package Study01.EX;
+package Study01.Example20;
 
 public class MovieReiviewMain {
     public static void main(String[] args) {

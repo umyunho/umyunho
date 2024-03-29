@@ -1,4 +1,4 @@
-package Study01.Ex2;
+package Study01.Example21;
 
 public class ProductOrder {
     String productName;

@@ -24,6 +24,7 @@ public class Application {
             System.out.print(hobby[i] + " ");
         }
         System.out.println();
+        System.out.println();
 
 
         /* 이렇게 사용하면 단점이 있다
@@ -58,6 +59,9 @@ public class Application {
         System.out.println("member.age = " + member.age);
         System.out.println("member.gender = " + member.gender);
         System.out.println("member.hobby = " + member.hobby);
+        System.out.println();
+        System.out.println();
+
 
         member.id = "user02";
         member.pwd = "pass02";
@@ -76,6 +80,27 @@ public class Application {
             System.out.print(member.hobby[i] + " ");
         }
         System.out.println();
+        System.out.println();
+
+        member.id = "user03";
+        member.pwd = "pass03";
+        member.name = "미디어";
+        member.age = 556;
+        member.gender = '여';
+        member.hobby = new String[]{"축구", "야구", "농구"};
+
+        System.out.println("변경 후 member.id = " + member.id);
+        System.out.println("변경 후 member.pwd = " + member.pwd);
+        System.out.println("변경 후 member.name = " + member.name);
+        System.out.println("변경 후 member.age = " + member.age);
+        System.out.println("변경 후 member.gender = " + member.gender);
+        System.out.print("변경 후 member.hobby = ");
+        for (int i = 0; i < member.hobby.length; i++) {
+            System.out.print(member.hobby[i] + " ");
+        }
+        System.out.println();
+        System.out.println();
+
 
     }  
 

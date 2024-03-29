@@ -1,4 +1,4 @@
-package Study01.Ex2;
+package Study01.Example21;
 
 public class ProductOrderMain {
     public static void main(String[] args) {
@@ -23,15 +23,16 @@ public class ProductOrderMain {
         poArray[1] = po2;
         poArray[2] = po3;
 
-/*        System.out.println("상품명 : " + po1.productName + " 가격 : " + po1.price + "수량 : " + po1.quantity );
-        System.out.println("상품명 : " + po2.productName + " 가격 : " + po2.price + "수량 : " + po2.quantity );
-        System.out.println("상품명 : " + po3.productName + " 가격 : " + po3.price + "수량 : " + po3.quantity );*/
+        System.out.println("상품명 : " + po1.productName + " 가격 : " + po1.price + "수량 : " + po1.quantity);
+        System.out.println("상품명 : " + po2.productName + " 가격 : " + po2.price + "수량 : " + po2.quantity);
+        System.out.println("상품명 : " + po3.productName + " 가격 : " + po3.price + "수량 : " + po3.quantity);
         int totalPrice = 0;
 
-        for(int i = 0; i < poArray.length; i++){
-            System.out.println("상품명 : " + poArray[i].productName + ", 가격 : " + poArray[i].price + ", 수량 : " + poArray[i].quantity );
+        for (int i = 0; i < poArray.length; i++) {
+            System.out.println("상품명 : " + poArray[i].productName + ", 가격 : " + poArray[i].price + ", 수량 : " + poArray[i].quantity);
             totalPrice += poArray[i].price * poArray[i].quantity;
         }
 
         System.out.println("총 결제 금액 : " + totalPrice);
+    }
 }
