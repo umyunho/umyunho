@@ -20,4 +20,7 @@ public class RacingCar {
     public void stop() {
         System.out.println("레이싱카가 멈춥니다.");
     }
+
+
+
 }
