@@ -12,5 +12,5 @@ public class Ex {
     public void hang(int num2){
 
     }
-    for(num = 1; num  )
+    //for(num = 1; num  )
 }

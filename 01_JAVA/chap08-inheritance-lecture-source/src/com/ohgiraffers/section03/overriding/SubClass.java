@@ -44,9 +44,9 @@ public class SubClass extends SuperClass{
     }
 
     //부모 범위보다 넓은 범위라 가능
-    @Override
-    public void protectedMethod() {
-    }
+//    @Override
+//    public void protectedMethod() {
+//    }
 
     /*참고로 클래스에도 final 키워드를 추가할 수 있는데 이는 상속을 제한하는 키워드이다,(클래스 확장 불가)*/
 }
