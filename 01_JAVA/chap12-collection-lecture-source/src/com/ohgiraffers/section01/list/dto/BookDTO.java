@@ -1,4 +1,4 @@
-package com.ohgriffers.section01.list.dto;
+package com.ohgiraffers.section01.list.dto;
 
 public class BookDTO {
 

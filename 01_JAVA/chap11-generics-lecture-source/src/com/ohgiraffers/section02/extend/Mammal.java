@@ -1,2 +1,5 @@
-package com.ohgiraffers.section02.extend.run;public class Mammal {
+package com.ohgiraffers.section02.extend;
+
+public class Mammal implements Animal{
+
 }

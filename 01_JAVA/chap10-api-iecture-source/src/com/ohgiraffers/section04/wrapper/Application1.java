@@ -1,8 +1,6 @@
 package com.ohgiraffers.section04.wrapper;
 
-import java.nio.IntBuffer;
-
-public class Applicstion1 {
+public class Application1 {
     public static void main(String[] args) {
         /* 수업 목표. Wrapper클래스에 대해 이해할 수 있다.*/
         /*
